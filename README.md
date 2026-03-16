@@ -3,7 +3,7 @@
 Personal portfolio website for Amala Mohan, a 2nd year Computer Science & Mathematics student at UBC.
 
 ## 🔗 Live Site
-> Replace this with your deployed URL once hosted (GitHub Pages, Vercel, etc.)
+on Github 
 
 ## 📁 Project Structure
 portfolio/
